@@ -19,7 +19,7 @@
     "mutexify": "^1.2.0",
     "pretty-hash": "^1.0.1",
     "stream-collector": "^1.0.1",
-    "subleveldown": "^4.1.4",
+    "subleveldown": "^5.0.0",
     "thunky": "^1.1.0",
     "varint": "^5.0.0"
   },
